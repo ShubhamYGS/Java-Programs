@@ -1,0 +1,31 @@
+/*Output:
+
+INFORMATION OF FIRST EMPLOYEE
+
+Enter First Name:
+Shubham
+Enter Last Name:
+Patil
+Enter Monthly Salary:
+30000
+First Name is Shubham
+Last Name is Patil
+Month Salary is 30000
+Annaul Salary is 360000.0
+After 10% rise in Salary is 396000.0
+
+INFORMATION OF SECOND EMPLOYEE
+
+Enter First Name:
+Rushikesh
+Enter Last Name:
+Patil
+Enter Monthly Salary:
+6743
+First Name is Rushikesh
+Last Name is Patil
+Month Salary is 6743
+Annaul Salary is 80916.0
+After 10% rise in Salary is 89007.6
+
+*/
