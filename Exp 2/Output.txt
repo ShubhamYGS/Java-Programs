@@ -1,0 +1,19 @@
+/*Output:
+
+Saver 1 :-
+
+Primary Saving Balance is 2000.0
+After 4% Rate:
+New Saving Balance is 2006.6666666666667
+After 5% Rate:
+New Saving Balance is 2015.0277777777778
+
+
+Saver 2 :-
+
+Primary Saving Balance is 3000.0
+After 4% Rate:
+New Saving Balance is 3010.0
+After 5% Rate:
+New Saving Balance is 3022.5416666666665
+*/
