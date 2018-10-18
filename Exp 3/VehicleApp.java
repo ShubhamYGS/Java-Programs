@@ -73,12 +73,12 @@ public class VehicleApp
 		Ship s=new Ship();
 		HoverCraft h=new HoverCraft();
 		
-		//Enter Car
+		//Enter Car Details
 		h.enterLand();
 		c.drive();
 		h.drive();
 		
-		//Enter Ship
+		//Enter Ship Details
 		h.enterSea();
 		s.launch();
 		h.launch();
