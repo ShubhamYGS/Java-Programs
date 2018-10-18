@@ -18,4 +18,4 @@ Maximum Passanger: 5
 Maximum Speed: 150
 Displacement: 10
 Sea Name: Hatnur
-*s/
+*/
