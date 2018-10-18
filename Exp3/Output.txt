@@ -1,0 +1,21 @@
+/*Output:
+
+Enter Land Name:
+Sangli
+                Car Information:
+Name: Zest
+Maximum Passanger: 5
+Maximum Speed: 150
+Number of Wheels: 4
+Land Name: Sangli
+
+
+Enter Sea Name:
+Hatnur
+                Ship Information:
+Name: Zest
+Maximum Passanger: 5
+Maximum Speed: 150
+Displacement: 10
+Sea Name: Hatnur
+*s/
