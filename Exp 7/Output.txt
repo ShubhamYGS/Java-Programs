@@ -1,0 +1,12 @@
+Enter Name : Shubham
+
+Enter Age : 19
+
+Enter Height : 5.11
+
+Enter City : Sangli
+
+Shubham
+19
+5.11
+Sangli
