@@ -44,7 +44,7 @@ class Roman
 	{
 		Scanner scan=new Scanner(System.in);
 		System.out.println(".............CONVERSION OF ROMAN TO INTEGER.................");
-		System.out.println("enter n Roman Number");
+		System.out.println("Enter the Roman Number");
 		romanNumeral=scan.nextLine();
 		romanNumeral=romanNumeral.toUpperCase();
 		int l=romanNumeral.length();
