@@ -1,0 +1,50 @@
+/*Output:-
+
+Enter your choice:
+1.mean
+2.median
+3.average
+4.exit
+1
+
+Enter the count of the numbers:
+4
+
+The mean is :2.0
+Enter your choice:
+1.mean
+2.median
+3.average
+4.exit
+2
+
+Enter the count of the number:
+4
+
+Enter the numbers:
+
+5
+7
+4
+9
+Median = 5.0
+Enter your choice:
+1.mean
+2.median
+3.average
+4.exit
+3
+
+Enter 3 Numbers:
+3
+5
+7
+
+The Average Is: 5
+Enter your choice:
+1.mean
+2.median
+3.average
+4.exit
+4
+*/
