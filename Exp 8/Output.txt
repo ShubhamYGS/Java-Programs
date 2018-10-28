@@ -1,0 +1,22 @@
+/*Output:-
+
+Enter File name :Input.txt
+        File Created...
+
+        Want to add new data...? :y
+
+        Enter Name : Shubham
+
+        Enter City : Sangli
+
+        Enter Phone No. : 9657941846
+
+        Enter Age : 19
+
+        Enter Height : 5.11
+
+        Enter Wight : 65
+
+        Want to add new data...? :n
+        You want to Exit? :y
+        */
