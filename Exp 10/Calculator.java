@@ -11,7 +11,7 @@ class Calculator implements ActionListener
     static double a=0,b=0,result=0;
     static int operator=0;
  
-    Calc()
+    Calculator()
     {
         f=new JFrame("Calculator");
         t=new JTextField();
@@ -205,6 +205,6 @@ class Calculator implements ActionListener
  
     public static void main(String...s)
     {
-        new Calc();
+        new Calculator();
     }
 }
