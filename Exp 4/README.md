@@ -1,5 +1,5 @@
 Develop a mathematical package for Statistical operations like Mean, Median, Average,
-Standard deviation.
+Standard deviation
 
 To Compile: javac -d . *.java
 
