@@ -1,0 +1,84 @@
+/*Output:-
+
+1.Decimal to Octal
+2.Decimal to Hex
+3.Decimal to Binary
+4.Octal to Decimal
+5.Hex to Decimal
+6.Binary to Decimal
+7.Exit
+
+Enter Your Choice:1
+Enter a decimal number : 12
+Decimal to Octal:14
+
+1.Decimal to Octal
+2.Decimal to Hex
+3.Decimal to Binary
+4.Octal to Decimal
+5.Hex to Decimal
+6.Binary to Decimal
+7.Exit
+
+Enter Your Choice:2
+Enter a decimal number : 12
+Decimal to Hexadecimal:C
+
+1.Decimal to Octal
+2.Decimal to Hex
+3.Decimal to Binary
+4.Octal to Decimal
+5.Hex to Decimal
+6.Binary to Decimal
+7.Exit
+
+Enter Your Choice:3
+Enter a decimal number : 12
+Decimal to Binary:1 1 0 0
+
+1.Decimal to Octal
+2.Decimal to Hex
+3.Decimal to Binary
+4.Octal to Decimal
+5.Hex to Decimal
+6.Binary to Decimal
+7.Exit
+
+Enter Your Choice:4
+Enter a Octal number : 14
+Octal to Decimal :12
+
+1.Decimal to Octal
+2.Decimal to Hex
+3.Decimal to Binary
+4.Octal to Decimal
+5.Hex to Decimal
+6.Binary to Decimal
+7.Exit
+
+Enter Your Choice:5
+Enter a Hexadecimal number : 15
+Hexadecmal to Decimal :21
+
+1.Decimal to Octal
+2.Decimal to Hex
+3.Decimal to Binary
+4.Octal to Decimal
+5.Hex to Decimal
+6.Binary to Decimal
+7.Exit
+
+Enter Your Choice:6
+Enter a Binary number : 1100
+Binary to Decimal :12
+
+1.Decimal to Octal
+2.Decimal to Hex
+3.Decimal to Binary
+4.Octal to Decimal
+5.Hex to Decimal
+6.Binary to Decimal
+7.Exit
+
+Enter Your Choice:7
+*/
