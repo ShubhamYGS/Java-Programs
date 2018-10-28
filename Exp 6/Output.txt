@@ -1,0 +1,26 @@
+Enter your choice:
+
+1.Convert Integer to Roman
+2.Convert Roman to Integer
+3.Exit
+1
+.............CONVERSION OF INTEGER TO ROMAN.................
+Enter the integer value=
+34
+XXXIV
+Enter your choice:
+
+1.Convert Integer to Roman
+2.Convert Roman to Integer
+3.Exit
+2
+.............CONVERSION OF ROMAN TO INTEGER.................
+enter the Roman Number
+l
+Decimal Number stored is:50
+Enter your choice:
+
+1.Convert Integer to Roman
+2.Convert Roman to Integer
+3.Exit
+3
