@@ -15,7 +15,7 @@ Enter your choice:
 3.Exit
 2
 .............CONVERSION OF ROMAN TO INTEGER.................
-enter the Roman Number
+Enter the Roman Number
 l
 Decimal Number stored is:50
 Enter your choice:
