@@ -2,4 +2,5 @@ Develop a mathematical package for Statistical operations like Mean, Median, Ave
 Standard deviation.
 
 To Compile: javac -d . *.java
+
 To Run: java operation.Stdoperation
